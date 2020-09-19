@@ -1,2 +1,2 @@
-# first_web_page
+# first Web Page
 Basic HTML, CSS and Javascript
