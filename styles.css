@@ -1,0 +1,74 @@
+body{
+  padding: 30px 6px 3px 30px;
+  display: flex;
+  flex-direction: column
+}
+
+main{
+  background-color: #e6dded;
+  display: flex;
+  flex-direction: row;
+  flex: auto
+}
+
+article{
+  flex: 2;
+  overflow-y: auto
+}
+
+aside{
+  flex: 1;
+  overflow-y: auto;
+  background-color: #e6dded;
+
+}
+
+body{
+  
+  background-image: url('https://renewinthealth.org/wp-content/uploads/essential-oils-banner-1-300x150.png');
+
+}
+
+header.nav_bar{
+
+  background-color: #e6dded;
+  font-size: 150%;
+  font-weight: bold;
+  color:rgb(137, 83, 158);
+  height:0;
+}
+
+
+h1 {
+  padding: 3px 6px 3px 6px;
+
+  background-color: rgb(137, 83, 158);
+
+  color: #e6dded;
+  font-weight: bold;
+  font-size: 180%;
+  text-align:center;
+  
+}
+
+h2 {
+  padding: 3px 6px 3px 6px;
+
+  background-color: rgb(137, 83, 158);
+
+  color: #e6dded;
+  font-weight: bold;
+  font-size: 150%;
+  text-align:center;
+}
+
+ a { color: rgb(137, 83, 158); }
+ 
+p.disclaimer{
+  background-color: #e6dded;
+  padding: 6px 6px 3px 6px;
+}
+
+div.thumbnail{
+  text-align: center;
+}
